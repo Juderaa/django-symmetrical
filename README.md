@@ -1,1 +1,1 @@
-# symmetrical-chainsaw
+# django-symmetrical
